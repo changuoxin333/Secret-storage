@@ -16,3 +16,5 @@ If want to change drive leater
 ONLY CHANGE frist 2 C[Drive Leater]
 
 Default [Drive Leather] is C drive
+
+My English is not so good －O－
